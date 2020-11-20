@@ -1,0 +1,13 @@
+C:\Users\joser\source\repos\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\joser\source\repos\Formulario\bin\Debug\Formulario.exe
+C:\Users\joser\source\repos\Formulario\bin\Debug\Formulario.pdb
+C:\Users\joser\source\repos\Formulario\bin\Debug\Formulario.xml
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.vbprojAssemblyReference.cache
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.Datos.resources
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.Resources.resources
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.vbproj.GenerateResource.cache
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.vbproj.CoreCompileInputs.cache
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.exe
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.xml
+C:\Users\joser\source\repos\Formulario\obj\Debug\Formulario.pdb
